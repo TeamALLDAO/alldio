@@ -7,7 +7,7 @@ let team = false;
 </script>
 
 <section class="text-center p-3">
-    <h2 class="font-bold text-xl">About Us</h2>
+  
     <p class={`my-4 ${!seemore&&"line-clamp-6"}`}>
         At AllDAO, we strive to build a world-class platform for community management and finance, empowering communities to achieve their full potential. We envision creating an ecosystem of thriving DAOs, driving mass adoption of web3 through value-driven community interactions. Our Team comprises of a united community of passionate individuals from diverse backgrounds, brought together by our unyielding commitment to build something significant from our remote corner of the world. As dedicated pioneers, we embrace challenges and opportunities, ready to scale new heights. Our strength lies in our collective determination to bring positive change to community management and finance. Together, we strive to empower every web3 community with the tools and support they need to thrive in the decentralized landscape.
         

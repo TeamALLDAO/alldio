@@ -10,4 +10,4 @@
             <iframe src="https://www.youtube.com/embed/1pBuwKwaHp0" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
-
+    <h2 class="font-bold text-xl">About Us</h2>
