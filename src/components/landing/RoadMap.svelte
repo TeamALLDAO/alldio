@@ -4,7 +4,7 @@
 
 <div class="p-2 text-sm">
     
-
+    <h2 class="text-xl capitalize text-center mb-10">Road map</h2>
     <div class="rounded-xl w-[100%]  border-2 border-blue-300 ">
       <div class="grid grid-cols-1 p-2 md:grid-cols-3 ">
         <div class="  w-[100%] md:w-[25vw] p-3 backdrop-blur-[10px] border-2  rounded-lg shadow-lg md:translate-x-[-50px] md:translate-y-[-100px]  hover:bg-white mb-5">

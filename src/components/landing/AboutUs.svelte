@@ -38,6 +38,6 @@ let team = false;
     </section>
 {/if}
 </div>
-<h2 class="text-xl capitalize text-center mb-4">Road map</h2>
+
 
 
