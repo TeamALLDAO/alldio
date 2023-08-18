@@ -1,7 +1,7 @@
 
 <script>
-    let info_left = `text-end p-3 backdrop-blur-[10px] border-2 m-2 rounded-lg shadow-lg hover:translate-x-[0px] hover:bg-white min-h-[250px] md:h-auto`;
-    let info_right = `p-3 backdrop-blur-[10px] border-2 m-2 rounded-lg shadow-lg hover:translate-x-[0px] hover:bg-white  min-h-[250px] md:h-auto`;
+    let info_left = `text-end p-3 backdrop-blur-[10px] border-2 m-2 rounded-lg shadow-lg hover:translate-x-[0px] hover:bg-white min-h-[250px] md:h-fit`;
+    let info_right = `p-3 backdrop-blur-[10px] border-2 m-2 rounded-lg shadow-lg hover:translate-x-[0px] hover:bg-white  min-h-[250px] md:h-fit`;
     let parent_div = "relative  flex flex-col gap-5 md:justify-around ";
 </script>
 
