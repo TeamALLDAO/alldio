@@ -7,7 +7,7 @@
         <button class="border-2 border-blue-800 custom-text py-2 px-5 rounded-lg">Download here</button>
     </div>
 
-    <div class="flex flex-col md:flex-row justify-between my-5">
+    <div class="flex flex-col md:flex-row justify-between my-5 gap-6">
         <div class="flex flex-col md:flex-row gap-5">
             <h2 class="custom-text font-bold">ALLDAO</h2>
             <div>Thank You for Visiting AllDAO! Join our thriving community and take your web3 community to new heights with our cutting-edge platform.</div>
