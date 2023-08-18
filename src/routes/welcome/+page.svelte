@@ -1,8 +1,9 @@
 <script>
-	import SecondSection from "../../components/welcom/SecondSection.svelte";
 	import ThirdSection from "../../components/ThirdSection.svelte";
-	import TopSection from "../../components/TopSection.svelte";
 	import AboutUs from "../../components/landing/AboutUs.svelte";
+	import SecondSection from "../../components/welcom/SecondSection.svelte";
+	import TopSection from "../../components/welcom/TopSection.svelte";
+
 
 </script>
 <section>
