@@ -1,15 +1,17 @@
 <script>
-    
+// @ts-nocheck
+
+    import Chart from 'svelte-frappe-charts';
 
     const data = {
-    labels: ["12am-3am", "3am-6pm", "6am-9am", "9am-12am",
-        "12pm-3pm", "3pm-6pm", "6pm-9pm", "9am-12am"
+    labels: [ "july 1st", "july 7th", "july 14th", "july 21th",
+        "july 28th", "31st", 
     ],
     datasets: [
        
         {
-            name: "Another Set", type: "line",
-            values: [25, 50, -10, 15, 18, 32, 27, 14]
+            
+            values: [ 200, 300, 250, 800, 400, 300, 500, 340, 250]
         }
     ]
 }
@@ -21,6 +23,6 @@
 
 
 
-
+<Chart data={data} type="line" />
 
 <div id="chart"></div>

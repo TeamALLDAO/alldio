@@ -9,7 +9,7 @@
 	<div class="hidden md:flex gap-4 justify-between">
 		<button class=" capitalize">Add ALLDAO</button>
 		<button>Resources</button>
-		<button>Community</button>
+		<a href="/exhange">Exchange</a>
 		<a href="/profile">Profile</a>
 	</div>
 

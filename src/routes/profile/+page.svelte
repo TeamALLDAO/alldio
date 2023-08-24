@@ -96,7 +96,7 @@ import ArrowDown from '../../components/icons/ArrowDown.svelte';
 		</select>
 
         <div>
-            <!-- <LineChart/> -->
+            <LineChart/>
         </div>
 	</section>
 </div>
