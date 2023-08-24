@@ -1,9 +1,4 @@
 <script>
-
 </script>
-<section>
 
-
-	
-
-</section>
+<section />
